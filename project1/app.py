@@ -1,7 +1,8 @@
 from flask import Flask
 
 app = Flask(__name__)
-
+num2 = 300
+num3 = 400
 
 @app.route('/')
 def hello_world():

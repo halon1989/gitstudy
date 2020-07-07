@@ -7,6 +7,8 @@ num3 = 300
 num4 = 400
 num5 = 500
 
+age1 = 10000
+
 
 @app.route('/')
 def hello_world():

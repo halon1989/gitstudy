@@ -8,7 +8,7 @@ num4 = 400
 num5 = 500
 
 age1 = 10000
-age2 = 20000
+age3 = 30000
 
 
 @app.route('/')
